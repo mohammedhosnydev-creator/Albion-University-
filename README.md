@@ -28,3 +28,4 @@ Technologies Implemented
 10.	Configuring switchport security or Port-Security on the switches.
 11.	Host Device Configurations.
 12.	Test and Verifying Network Communication.
+## Note the password of routers is 1234
